@@ -1,4 +1,4 @@
-# ListaDeNumeros
+# NumberList
 Exercise following Python course specifications, to list numbers.
 
 <a>
